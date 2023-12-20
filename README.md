@@ -1,8 +1,9 @@
 # 
 
 <p align="center">
-    <img src="">
+  <img width="300px" src="https://imgur.com/IGt1Phq.png"/></a>&#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
+
 
 ## About The Project 
 
@@ -26,17 +27,14 @@
 
 ## Technology 
 <p align="center">
-  <a href="www.linkedin.com/in/fakhrul-nurmulyana-760745221"><img width="50px" src="https://imgur.com/SQMaw04.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="www.linkedin.com/in/fakhrul-nurmulyana-760745221"><img width="40px" src="https://imgur.com/l1a3XsY.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="www.linkedin.com/in/fakhrul-nurmulyana-760745221"><img width="40px" src="https://imgur.com/rEUyfVQ.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="www.linkedin.com/in/fakhrul-nurmulyana-760745221"><img width="40px" src="https://imgur.com/hWkj1WQ.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="www.linkedin.com/in/fakhrul-nurmulyana-760745221"><img width="40px" src="https://imgur.com/43fAQm6.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <img width="65px" src="https://imgur.com/SQMaw04.png"/></a>&#8287;&#8287;&#8287;&#8287;&#8287;
+  <img width="50px" src="https://imgur.com/l1a3XsY.png"/></a>&#8287;&#8287;&#8287;&#8287;&#8287;
+  <img width="50px" src="https://imgur.com/rEUyfVQ.png"/></a>&#8287;&#8287;&#8287;&#8287;&#8287;
+  <img width="50px" src="https://imgur.com/hWkj1WQ.png"/></a>&#8287;&#8287;&#8287;&#8287;&#8287;
+  <img width="50px" src="https://imgur.com/43fAQm6.png"/></a>&#8287;&#8287;&#8287;&#8287;&#8287;
+  <img width="50px" src="https://imgur.com/OwWy9VI.png"/></a>&#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
+
 
 
 
