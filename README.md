@@ -19,17 +19,24 @@
 | Sandy Azizi          | M184BSY1618 |  Machine Learning   |  Universitas Andalas    |
 
 
-## Resource 🧰
+## Resource 
 
-- Machine Learning Repository: []()
-- Cloud Computing Repository: []()
-- Mobile Development Repository: []()
+- Machine Learning Repository: [HukumQ Model](https://github.com/fakhrulnurmulyana/ML_Capstone.git)
+- Mobile Development Repository: [HukumQ App](https://github.com/mhmdnurulkarim/HukumQ.git)
 
-## Technology 👨‍💻
+## Technology 
+<p align="center">
+  <a href="www.linkedin.com/in/fakhrul-nurmulyana-760745221"><img width="50px" src="https://imgur.com/SQMaw04.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="www.linkedin.com/in/fakhrul-nurmulyana-760745221"><img width="40px" src="https://imgur.com/l1a3XsY.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="www.linkedin.com/in/fakhrul-nurmulyana-760745221"><img width="40px" src="https://imgur.com/rEUyfVQ.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="www.linkedin.com/in/fakhrul-nurmulyana-760745221"><img width="40px" src="https://imgur.com/hWkj1WQ.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="www.linkedin.com/in/fakhrul-nurmulyana-760745221"><img width="40px" src="https://imgur.com/43fAQm6.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+</p>
 
-![](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![](https://img.shields.io/badge/Kotlin-0095D5?&style=flat&logo=kotlin&logoColor=white) ![](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) ![](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white) ![](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
-## Acknowledgment 🙌
 
-This project was developed for fullfill the final capstone project submission at Bangkit 2023.
-![](https://hackmd.io/_uploads/r1VL5VVvh.png)
