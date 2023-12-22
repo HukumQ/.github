@@ -1,5 +1,5 @@
-# HukumQ. 
-##"Law in your hand, justice in your actions"
+# HukumQ
+## "Law in your hand, justice in your actions"
 
 <p align="center">
   <img width="300px" src="https://imgur.com/IGt1Phq.png"/></a>&#8287;&#8287;&#8287;&#8287;&#8287;
