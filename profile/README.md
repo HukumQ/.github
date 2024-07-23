@@ -18,7 +18,7 @@ HukumQ is a mobile application designed to increase public awareness towards leg
 | Muhammad Nurul Karim | A416BSY2660 | Mobile Developer | [@mhmdnurulkarim](https://www.github.com/mhmdnurulkarim) |
 | Fakhrul Nurmulyana | M315BSY0475 | Machine Learning | [@fakhrulnurmulyana](https://www.github.com/fakhrulnurmulyana) |
 | Indri Windriasari | M313BSX0879 | Machine Learning | [@driins](https://github.com/driins) |
-| Sandy Azizi | M184BSY1618 | Machine Learning | [@senzen](https://github.com/senzen) |
+| Sandy Azizi | M184BSY1618 | Machine Learning | [@senzen](https://github.com/sandyazizi) |
 
 ## Technology 
 <p align="center">
